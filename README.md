@@ -29,5 +29,5 @@
 <p>This method uses the connection of database to insert all the field records fetched from Excel data file into table1 of database.</p>
 <p>The script logs the file result summary into log_file_name.</p>
 <h4>4. Execution time:</h4>
-<p>The execution time of the script file will depend on the size of excel data file.</p>
+<p>The execution time of the script file will depend on the size of the data on your Excel file.</p>
 
