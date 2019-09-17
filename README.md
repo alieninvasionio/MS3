@@ -2,7 +2,7 @@
 <p>This application was designed to consume a CSV file, parse the data, and insert valid records into a SQLite database.</p>
 <h4>1. Using the application:</h4>
 <p>To execute this code successfully, you need to do the following:</p>
-<p>a)	Install the following Python Libraries (if you don’t have them already):</p>
+<p>a)	Install the following Python Libraries (if you don't already have them):</p>
 
 <img src="https://github.com/alieninvasionio/MS3/blob/master/img1.png">
 
