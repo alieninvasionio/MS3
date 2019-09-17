@@ -1,4 +1,4 @@
-<h3>Read Me - MS3 Application</h3>
+<h3>Please Read Me - MS3 Application</h3>
 <p>This application was designed to consume a CSV file, parse the data, and insert valid records into a SQLite database.</p>
 <h4>1. Using the application:</h4>
 <p>To execute this code successfully, you need to do the following:</p>
