@@ -6,7 +6,7 @@
 
 <img src="https://github.com/alieninvasionio/MS3/blob/master/img1.png">
 
-<p>b)	Ensure that the excel file is in the same directory with the python file (e.g. MS3.py & ExcelData.xlsx should be in the same folder)</p>
+<p>b)	Place the Excel file in the same directory with the python file (e.g. MS3.py & ExcelData.xlsx should be in the same folder)</p>
 <p>c)	When you run the code, it will open the following dialog box:</p>
 
 <img src="https://github.com/alieninvasionio/MS3/blob/master/img2.png">
