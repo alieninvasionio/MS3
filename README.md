@@ -19,7 +19,7 @@
 <p>Some python libraries were used to execute the code. Their use cases are described below:</p>
 <img src="https://github.com/alieninvasionio/MS3/blob/master/img4.png">
 
-<h4>3. Methods:</h4>
+<h4>3. Approach:</h4>
 <p>The headings below provide an overview of how the code functions.</p>
 <p>a)	create_table(dbname): </p>
 <p>This function creates the db file ‘dbname’. After creating the db file it creates a table ‘table1’ (if it doesn’t exist) and returns the database connection.</p>
