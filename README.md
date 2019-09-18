@@ -4,20 +4,20 @@
 <p>To execute this code successfully, you need to do the following:</p>
 <p>a)	Install the following Python Libraries (if you don't already have them):</p>
 
-<img src="https://github.com/alieninvasionio/MS3/blob/master/img1.png">
+<img src="https://github.com/alieninvasionio/MS3/blob/master/Images/img1.png">
 
 <p>b)	Place the Excel file in the same directory with the python file (e.g. MS3.py & ExcelData.xlsx should be in the same folder)</p>
 <p>c)	When you run the code, it will open the following dialog box:</p>
 
-<img src="https://github.com/alieninvasionio/MS3/blob/master/img2.png">
+<img src="https://github.com/alieninvasionio/MS3/blob/master/Images/img2.png">
 <p><strong>Description: Dialog box for file selection</strong></P>
 <p><span>Click the “OK” button and browse through the folder to select the relevant Excel file.</span></p>
 <p>d)	The script will process all the data and will make few result files. The name of these result files will depend on the name of the excel data file. For instance, if the name of the Excel file that contains the data is “ExcelData.xlsx”, the name of result files will be as follows:</p>
-<img src="https://github.com/alieninvasionio/MS3/blob/master/img3.png">
+<img src="https://github.com/alieninvasionio/MS3/blob/master/Images/img3.png">
  
 <h4>2. Design:</h4>
 <p>Some python libraries were used to execute the code. Their use cases are described below:</p>
-<img src="https://github.com/alieninvasionio/MS3/blob/master/img4.png">
+<img src="https://github.com/alieninvasionio/MS3/blob/master/Images/img4.png">
 
 <h4>3. Approach:</h4>
 <p>The headings below provide an overview of how the code functions.</p>
